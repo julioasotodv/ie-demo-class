@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+Materials for lectures on machine learning for [IE University](https://www.ie.edu/) (AAA-1234 - Machine Learning)
+
+For inquiries, contact [Julio](mailto:julioantonio.sotovicente@gmail.com)

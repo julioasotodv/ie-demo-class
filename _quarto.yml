@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - about.qmd
+    - ERM_and_regularization.ipynb
+website:
+  title: "AAA-1234 - Machine Learning"
+  description: Lectures on machine learning at IE university (AAA-1234 - Machine Learning)
+  site-url: "https://julioasotodv.github.io/ie-c4-466671-diffusion-models"
+  repo-url: "https://github.com/julioasotodv/ie-C4-466671-diffusion-models"
+  reader-mode: true
+  page-footer: "2025 - Julio A. Soto"
+  navbar:
+    background: secondary
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    tools:
+      - icon: github
+        href: "https://github.com/julioasotodv/ie-C4-466671-diffusion-models"
+
+format:
+  html:
+    embed-resources: false
+    fontsize: 15px
+    email-obfuscation: "javascript"
+    theme:
+      light: [flatly, styles/extra-theme-light.scss]
+      dark: [darkly, styles/extra-theme-dark.scss]

@@ -1,0 +1,2 @@
+https://web.stanford.edu/class/cs224w/
+https://drganghe.github.io/quarto-academic-site-examples.html

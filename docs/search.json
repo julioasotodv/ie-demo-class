@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html#logistics",
+    "href": "index.html#logistics",
+    "title": "Welcome to AAA-1234 - Machine Learning",
+    "section": " Logistics",
+    "text": "Logistics\n\nLectures: are on Tuesday/Thursday 3:00-4:20pm in person in Kaleido Tower.\nLecture Videos: are available on IE’s platform for all the enrolled students.\nPublic resources: The lecture slides and assignments will be posted online as the course progresses. We are happy for anyone to use these resources, but we cannot grade the work of any students who are not officially enrolled in the class.\nContact: Students should ask all course-related questions on IE’s platform (accessible from Intranet), where you will also find announcements. For external inquiries, personal matters, or in emergencies, you can email Julio (julioantonio.sotovicente at gmail dot com)"
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Welcome to AAA-1234 - Machine Learning",
+    "section": " Instructor",
+    "text": "Instructor\n\n\n\nJulio Antonio Soto Vicente"
+  },
+  {
+    "objectID": "index.html#content",
+    "href": "index.html#content",
+    "title": "Welcome to AAA-1234 - Machine Learning",
+    "section": " Content",
+    "text": "Content\n\nWhat is this course about?\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nPrevious offerings\nNothing yet\n\n\nPrerequisites\nBasic computer science, linear algebra, calculus, probability and statistics\n\n\nCourse Materials\n\nA\nB\nC"
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Welcome to AAA-1234 - Machine Learning",
+    "section": " Schedule",
+    "text": "Schedule\n\n\n\nDate\nDescription\nOptional Reading\nEvents\n\n\n\n\nMon, 16/6\n1. ERM and regularization [slides]\n\nHomework 1\n\n\nTue, 17/6\n2. Support Vector Machines\n\n\n\n\nWed, 18/6\n3. Kernel methods\n\nHomework 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Materials for lectures on machine learning for IE University (AAA-1234 - Machine Learning)\nFor inquiries, contact Julio (julioantonio.sotovicente at gmail dot com)"
+  }
+]

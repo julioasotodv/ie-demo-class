@@ -1,0 +1,45 @@
+---
+title: "Welcome to AAA-1234 - *Machine Learning*"
+---
+
+<br>
+
+## {{< fa landmark >}} Logistics
+
+- **Lectures:** are on Tuesday/Thursday 3:00-4:20pm in person in Kaleido Tower.
+- **Lecture Videos:** are available on IE's platform for all the enrolled students.
+- **Public resources:** The lecture slides and assignments will be posted online as the course progresses. We are happy for anyone to use these resources, but we cannot grade the work of any students who are not officially enrolled in the class.
+- **Contact:** Students should ask all course-related questions on IE's platform (accessible from Intranet), where you will also find announcements. For external inquiries, personal matters, or in emergencies, you can email [Julio](mailto:julioantonio.sotovicente@gmail.com)
+
+## {{< fa user >}} Instructor
+
+<div style="text-align:center; display: inline-block;"><img src="images/yo3-modified.png" height=200/><p class="center"><a href="https://github.com/julioasotodv">Julio Antonio Soto Vicente</a></p></div>
+
+## {{< fa chalkboard-user >}} Content
+
+### <span style="color:#6c757d">What is this course about?</span>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+### <span style="color:#6c757d">Previous offerings</span>
+
+Nothing yet
+
+### <span style="color:#6c757d">Prerequisites</span>
+
+Basic computer science, linear algebra, calculus, probability and statistics
+
+### <span style="color:#6c757d">Course Materials</span>
+
+- A
+- B
+- C
+
+## {{< fa calendar-days >}} Schedule
+
+| Date | Description | Optional Reading | Events |
+|:------|:-----|:---------|:------|
+| Mon, 16/6   |  1. ERM and regularization \[[slides](ERM_and_regularization.ipynb)\] |       |    Homework 1  |
+|  Tue, 17/6  |  2. Support Vector Machines |      |     |
+|  Wed, 18/6  |  3. Kernel methods  |       |  Homework 2    |
+
