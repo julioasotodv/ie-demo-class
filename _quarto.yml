@@ -8,8 +8,8 @@ project:
 website:
   title: "AAA-1234 - Machine Learning"
   description: Lectures on machine learning at IE university (AAA-1234 - Machine Learning)
-  site-url: "https://julioasotodv.github.io/ie-c4-466671-diffusion-models"
-  repo-url: "https://github.com/julioasotodv/ie-C4-466671-diffusion-models"
+  site-url: "https://julioasotodv.github.io/ie-demo-class"
+  repo-url: "https://github.com/julioasotodv/ie-demo-class"
   reader-mode: true
   page-footer: "2025 - Julio A. Soto"
   navbar:
@@ -20,7 +20,7 @@ website:
       - about.qmd
     tools:
       - icon: github
-        href: "https://github.com/julioasotodv/ie-C4-466671-diffusion-models"
+        href: "https://github.com/julioasotodv/ie-demo-class"
 
 format:
   html:
